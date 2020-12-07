@@ -1,3 +1,5 @@
+# user can save up to 50 face images via live camera by pressing the <S> key #
+
 from cv2 import cv2
 
 face_detector=cv2.CascadeClassifier(r"C:\Users\Student\Desktop\SGTS006_SGTS039\Face_Recognition\haarcascade_frontalface_default.xml")
