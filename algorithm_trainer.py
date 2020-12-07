@@ -1,3 +1,4 @@
+# STEP 2 #
 # Train the data / modelling #
 
 # Import OpenCV2 for image processing
