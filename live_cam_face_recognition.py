@@ -1,3 +1,4 @@
+# Face(s) collection / data generation #
 # user can save up to 50 face images via live camera by pressing the <S> key #
 
 from cv2 import cv2
