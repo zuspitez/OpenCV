@@ -1,5 +1,5 @@
 # STEP 2 #
-# Train the data / modelling #
+# Training and modelling using the data gathered #
 
 # Import OpenCV2 for image processing
 # Import os for file path
