@@ -1,5 +1,5 @@
 # STEP 2 #
-# Training and modelling using the data gathered #
+# Training and modelling (i.e. xxxxxx.yml) using the data gathered #
 
 # Import OpenCV2 for image processing
 # Import os for file path
