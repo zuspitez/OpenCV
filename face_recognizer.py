@@ -1,5 +1,5 @@
 # STEP 3 #
-# Deploy the model in webcam - Face Recognition #
+# Deploy the model (i.e. xxxxxx.yml) in webcam - Face Recognition #
 
 # Import OpenCV2 for image processing
 from cv2 import cv2
