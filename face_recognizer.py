@@ -1,5 +1,5 @@
 # STEP 3 #
-# Face Recognition #
+# Deploy the model in webcam - Face Recognition #
 
 # Import OpenCV2 for image processing
 from cv2 import cv2
